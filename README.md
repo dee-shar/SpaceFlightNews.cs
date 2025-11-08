@@ -1,6 +1,7 @@
 # SpaceFlightNews.cs
 Web-API for [spaceflightnewsapi.net](https://www.spaceflightnewsapi.net/) the Most Complete Spaceflight Related News API
 
+## Example
 ```cs
 using SpaceFlightNewsApi;
 
